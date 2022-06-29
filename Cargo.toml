@@ -1,0 +1,12 @@
+[package]
+description = "A simple timer for sequential events"
+edition = "2021"
+license = "MIT"
+name = "seq-timer"
+repository = "https://github.com/imbolc/seq-timer"
+version = "0.1.0"
+
+[dependencies]
+
+[dev-dependencies]
+rusty-hook = "0.11"
